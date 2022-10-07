@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="image_skills">Image Skills</string>
+    <string name="delete">delete</string>
+    <string name="add_skills">add Skills</string>
+</resources>
