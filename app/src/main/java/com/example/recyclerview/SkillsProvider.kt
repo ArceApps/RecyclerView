@@ -11,61 +11,121 @@ class SkillsProvider {
                 "Android Studio",
                 "Software",
                 "09/10",
-                "https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"
+                "https://user-images.githubusercontent.com/61239577/194669356-406f133c-9fee-4dcd-9a08-2296bf17abb6.png"
+            ),
+            Skills(
+                "Kotlin",
+                "Languages",
+                "07/10",
+                "https://user-images.githubusercontent.com/61239577/194671047-fb363482-b4fb-471a-aaf0-1b9e3c211510.png"
             ),
             Skills(
                 "Git",
                 "Tools",
                 "07/10",
-                "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+                "https://user-images.githubusercontent.com/61239577/194671045-a0604ca7-1c1f-463b-be4d-414aec169648.png"
             ),
             Skills(
                 "Firebase",
                 "Tools",
                 "07/10",
-                "https://img2.freepng.es/20190529/uh/kisspng-firebase-cloud-messaging-google-cloud-messaging-ap-5ceed4e7432b70.0924427415591559432751.jpg"
+                "https://user-images.githubusercontent.com/61239577/194671046-571943e3-cec6-45f6-b5f3-d647dc5e14d1.png"
             ),
             Skills(
-                "SuperCuatro",
-                "Marvel",
-                "Cuatro",
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png"
+                "Java",
+                "Languages",
+                "08/10",
+                "https://user-images.githubusercontent.com/61239577/194671048-03b13e8c-e84b-415a-afc3-420303091c3c.png"
             ),
             Skills(
-                "SuperCinco",
-                "DC",
-                "Cinco",
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png"
+                "Github",
+                "tools",
+                "06/10",
+                "https://user-images.githubusercontent.com/61239577/194671049-29263ecf-a5a3-4fb3-8478-ba6b25aa6a45.png"
             ),
             Skills(
-                "SuperSeis",
-                "Marvel",
-                "Seis",
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png"
+                "Google Play Console",
+                "tools",
+                "09/10",
+                "https://user-images.githubusercontent.com/61239577/194671051-6262f66a-c411-4584-be40-ab43c8131e39.png"
             ),
             Skills(
-                "SuperSiete",
-                "DC",
-                "Siete",
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png"
+                "Gradle",
+                "Language",
+                "07/10",
+                "https://user-images.githubusercontent.com/61239577/194671055-6e092fb7-d41d-4cba-9e39-ec40d753022f.png"
             ),
             Skills(
-                "SuperOcho",
-                "Marvel",
-                "Ocho",
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png"
+                "Google Analytics",
+                "Tools",
+                "05/10",
+                "https://user-images.githubusercontent.com/61239577/194671058-e6a0511e-a9bd-4f8e-8802-56cac8343426.png"
             ),
             Skills(
-                "SuperNueve",
-                "DC",
-                "Nueve",
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png"
+                "Confluence",
+                "Software",
+                "08/10",
+                "https://user-images.githubusercontent.com/61239577/194671059-ecc08303-6c3e-4fe2-8e18-e70b69a2928d.png"
             ),
             Skills(
-                "SuperDiez",
-                "Marvel",
-                "Diez",
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png"
+                "Jira",
+                "Tools",
+                "09/10",
+                "https://user-images.githubusercontent.com/61239577/194671060-f6443c06-e773-458f-a058-4d63f8e4256b.png"
+            ),
+            Skills(
+                "Jenkins",
+                "Tools",
+                "06/10",
+                "https://user-images.githubusercontent.com/61239577/194671064-ae374103-f9f9-4a2f-ae68-979c24cb20da.png"
+            ),
+            Skills(
+                "Unity",
+                "Software",
+                "04/10",
+                "https://user-images.githubusercontent.com/61239577/194671065-a93389ed-e6af-4e03-b8e5-532e9ffae64a.png"
+            ),
+            Skills(
+                "Python",
+                "Language",
+                "03/10",
+                "https://user-images.githubusercontent.com/61239577/194671068-bdc463c8-e703-4f98-bffd-7f69b3565964.png"
+            ),
+            Skills(
+                "Eclipse",
+                "Software",
+                "05/10",
+                "https://user-images.githubusercontent.com/61239577/194671070-45e73bfe-7b29-4fe5-a040-6ac2d9a0792f.png"
+            ),
+            Skills(
+                "Netbeans",
+                "Software",
+                "06/10",
+                "https://user-images.githubusercontent.com/61239577/194671071-7b13efbf-517e-4dea-af90-1b552e713943.png"
+            ),
+            Skills(
+                "Visual Studio",
+                "Software",
+                "05/10",
+                "https://user-images.githubusercontent.com/61239577/194671073-3e29fdaa-6f8f-4a69-96a7-bdd96904c47a.png"
+            ),
+            Skills(
+                "IntelliJ",
+                "Software",
+                "07/10",
+                "https://user-images.githubusercontent.com/61239577/194671711-021408b9-8454-41d3-8ff1-8a9436939aa2.png"
+            ),
+            Skills(
+                "C#",
+                "Software",
+                "05/10",
+                "https://user-images.githubusercontent.com/61239577/194671075-7412d660-abd6-49ba-be24-80a7542a4622.png"
+            ),
+            Skills(
+                "Android",
+                "Software",
+                "10/10",
+                "https://user-images.githubusercontent.com/61239577/194671076-7e1a8d16-d546-48e5-8d1e-667a23b189fd.png"
             )
         )
     }

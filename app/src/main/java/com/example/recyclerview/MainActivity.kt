@@ -47,10 +47,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun createSkills() {
         val skills = Skills(
-            "TestName",
-            "Publisher",
-            "TestRealName",
-            "https://www.iconsdb.com/icons/preview/green/android-6-xxl.png"
+            "Kotlin Master",
+            "Languages",
+            "10/10",
+            "https://user-images.githubusercontent.com/61239577/194725655-be927201-47ca-4828-8ecb-cd0b62babbb6.png"
         )
         skillsMutableList.add(skills)
         val position = skillsMutableList.lastIndex

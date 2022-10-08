@@ -1,6 +1,8 @@
 package com.example.recyclerview.adapter
 
+import android.annotation.SuppressLint
 import android.graphics.Color
+import android.provider.Settings.Global.getString
 import android.view.View
 import android.widget.Toast
 import androidx.core.content.ContextCompat
@@ -31,9 +33,11 @@ class SkillsViewHolder(holder: View) : RecyclerView.ViewHolder(holder) {
         itemView.setOnClickListener { onClickListener(skillsModel) }
     }
 
+    @SuppressLint("SetTextI18n")
     private fun initValues(skillsModel: Skills) {
         binding.tvName.text = skillsModel.skillName
-        binding.tvPublisher.text = skillsModel.level
+        binding.tvType.text = "Type: ${skillsModel.type}"
+        binding.tvLevel.text = "Level: ${skillsModel.level}"
         // Load image
         Glide.with(binding.ivImage.context).load(skillsModel.image).into(binding.ivImage)
     }

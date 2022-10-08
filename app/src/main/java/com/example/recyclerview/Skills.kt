@@ -6,7 +6,7 @@ package com.example.recyclerview
  */
 data class Skills(
     val skillName: String,
-    val Type: String,
+    val type: String,
     val level: String,
     val image: String
 )

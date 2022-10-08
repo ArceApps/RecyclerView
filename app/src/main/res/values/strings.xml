@@ -3,4 +3,6 @@
     <string name="image_skills">Image Skills</string>
     <string name="delete">delete</string>
     <string name="add_skills">add Skills</string>
+    <string name="type">Type</string>
+    <string name="level">Level</string>
 </resources>
